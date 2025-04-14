@@ -34,6 +34,7 @@ linkedin:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
+  avatar: /assets/picture/sisanda.png
   name: Sisanda Masango
   email: sisandalisamasango@gmail.com # change to your email address
   links:
